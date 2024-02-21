@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export default function Navbar() {
   return (
-    <nav className="navbar bg-white border-bottom border-success border-2 shadow fixed-top">
+    <nav className="navbar bg-white border-bottom border-success border-2 shadow fixed-top mb-5">
     <div className="container-fluid">
       <Link className="navbar-brand fw-bolder text-success">
         Second Nature
